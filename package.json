@@ -1,0 +1,11 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "learning electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Priyansh Ramnani",
+  "license": "ISC"
+}
